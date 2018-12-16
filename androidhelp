@@ -1,4 +1,7 @@
 helper functions
+String date = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(new Date());
+
+
 
 https://www.camposha.info/source/android-php-mysql-recyclerview-select-fill/
 https://www.androidhive.info/2016/05/android-working-with-card-view-and-recycler-view/
