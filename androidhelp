@@ -1,6 +1,6 @@
 helper functions
 String date = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault()).format(new Date());
-
+Date c = Calendar.getInstance().getTime();
 https://www.mkyong.com/java/how-to-compare-dates-in-java/
 
 https://www.camposha.info/source/android-php-mysql-recyclerview-select-fill/
